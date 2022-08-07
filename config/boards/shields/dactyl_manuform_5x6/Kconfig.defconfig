@@ -1,0 +1,16 @@
+if DACTYL_MANUFORM_5X6_LEFT
+
+config ZMK_KEYBOARD_NAME
+	default "dactyl manuform"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+	default y
+
+endif
+
+if DACTYL_MANUFORM_5X6_LEFT || DACTYL_MANUFORM_5X6_RIGHT
+
+config ZMK_SPLIT
+	default y
+
+endif
