@@ -35,7 +35,7 @@
             >;
         };
 
-        raise {
+        lower {
 // ZMK doesn't support mouse behaviors, so unlike QMK, this default keymap
 // exchanges that behavior for Bluetooth behavior
 // -------------------------------------------------------------------------------------------------------------------------
@@ -60,7 +60,7 @@
             >;
         };
 
-        lower {
+        raise {
 // |         |     !   |    @    |    #    |    $    |    %    |                   |    ^    |    &    |    *    |    (    |    )    |         |
 // |    F1   |   F2    |   F3    |    F5   |    F5   |    F6   |                   |    F7   |    F8   |   F9    |   F10   |   F11   |  F12    |
 // |         |         |         |         |         |         |                   |         |         |         |         |    :    |         |
