@@ -10,3 +10,15 @@
         , <&pro_micro 10 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
         ;
 };
+
+nice_view_spi: &spi0 {
+	compatible = "nordic,nrf-spim";
+	sck-pin = <8>;
+	mosi-pin = <17>;
+	miso-pin = <25>;
+	cs-gpios = <&pro_micro 1 GPIO_ACTIVE_HIGH>;
+};
+
+&pro_micro_i2c {
+	status = "disabled";
+};
