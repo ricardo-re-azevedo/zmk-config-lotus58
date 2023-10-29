@@ -1,5 +1,0 @@
-config DACTYL_MANUFORM_5X6_LEFT
-	def_bool $(shields_list_contains,dactyl_manuform_5x6_left)
-
-config DACTYL_MANUFORM_5X6_RIGHT
-	def_bool $(shields_list_contains,dactyl_manuform_5x6_right)
