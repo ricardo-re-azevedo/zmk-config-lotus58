@@ -17,4 +17,4 @@ west build -p -b nice_nano_v2 -- -DSHIELD="lotus58_right nice_view_adapter nice_
 west build -p -b nice_nano_v2 -- -DSHIELD="lotus58_left nice_view_adapter nice_view" -DZMK_CONFIG=/home/ricardo/projects/zmk-config-lotus58/config     
 ```
 
-copy files from `zmk-config-lotus58\zmk\app\build\zephyr`
+copy `zmk.uf2` from `zmk-config-lotus58\zmk\app\build\zephyr`
