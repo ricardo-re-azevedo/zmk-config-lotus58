@@ -3,44 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zmk" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/bsim_hw_models/nrf_hw_models" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/crypto/mbedtls" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/crypto/tinycrypt" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/debug/TraceRecorder" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/debug/mipi-sys-t" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/debug/segger" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/fs/fatfs" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/fs/littlefs" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/atmel" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/cmsis" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/espressif" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/gigadevice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/libmetal" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/nordic" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/nuvoton" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/quicklogic" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/renesas" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/rpi_pico" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/stm32" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/telink" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/telink/tlsr9/ble/proj_lib/lib" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/hal/wurthelektronik" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/canopennode" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/chre" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/gui/lvgl" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/liblc3" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/lz4" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/nanopb" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/open-amp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/picolibc" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/tflite-micro" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/tinycbor" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/uoscore-uedhoc" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/zcbor" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/lib/zscilib" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/tee/tf-a/trusted-firmware-a" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/tee/tf-m/psa-arch-tests" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/modules/tee/tf-m/tf-m-tests" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zmk/zephyr" vcs="Git" />
   </component>
 </project>
