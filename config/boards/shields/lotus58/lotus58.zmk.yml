@@ -7,7 +7,6 @@ requires: [pro_micro]
 features:
   - keys
 #  - display
-  - encoder
 siblings:
   - lotus58_left
   - lotus58_right

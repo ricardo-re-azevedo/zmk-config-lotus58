@@ -10,6 +10,7 @@ west zephyr-export
 
 #Building
 ```shell
+set -Ux ZEPHYR_TOOLCHAIN_VARIANT zephyr # assuming using fish shell
 # build the reset firmware if you need to start from scratch
 west build -p -b nice_nano_v2 -- -DSHIELD=settings_reset
 # build right side

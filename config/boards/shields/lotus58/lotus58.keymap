@@ -12,7 +12,7 @@
             key-positions = <24 52>;
             layers = <0>;
             bindings = <&kp LGUI>;
-        };        
+        };
     };
 
     behaviors {
