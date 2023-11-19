@@ -1,11 +1,13 @@
 manifest:
   remotes:
-    - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
+    #- name: zmkfirmware
+    #  url-base: https://github.com/zmkfirmware
+    - name: zmk-yackboard-3.2
+      url-base: https://gitlab.com/voidyourwarranty
   projects:
-    - name: zmk
-      remote: zmkfirmware
-      revision: main
+    - name: zmk-yackboard-3.2
+      remote: zmk-yackboard-3.2
+      revision: devel-pim447
       import: app/west.yml
   self:
     path: config

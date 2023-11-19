@@ -1,4 +1,0 @@
-[submodule "zmk"]
-	path = zmk
-	url = https://gitlab.com/voidyourwarranty/zmk-yackboard-3.2.git
-	branch = devel-pim447
