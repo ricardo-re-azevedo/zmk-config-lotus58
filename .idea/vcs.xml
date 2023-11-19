@@ -3,5 +3,53 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zmk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/bootloader/mcuboot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/audio/sof" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/bsim_hw_models/nrf_hw_models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/crypto/mbedtls" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/crypto/tinycrypt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/debug/TraceRecorder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/debug/mipi-sys-t" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/debug/segger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/fs/fatfs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/fs/littlefs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/altera" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/atmel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/cmsis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/cypress" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/espressif" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/gigadevice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/infineon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/libmetal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/microchip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/nordic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/nuvoton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/nxp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/openisa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/quicklogic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/rpi_pico" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/silabs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/st" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/stm32" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/telink" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/ti" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/hal/xtensa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/lib/canopennode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/lib/civetweb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/lib/gui/lvgl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/lib/loramac-node" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/lib/lz4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/lib/nanopb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/lib/open-amp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/lib/openthread" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/lib/tflite-micro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/lib/tinycbor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/lib/zscilib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/tee/tf-m/psa-arch-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/tee/tf-m/tf-m-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/modules/tee/tf-m/trusted-firmware-m" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/tools/edtt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/tools/net-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zmk/app/zephyr" vcs="Git" />
   </component>
 </project>

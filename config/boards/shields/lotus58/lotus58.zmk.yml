@@ -3,11 +3,12 @@ id: lotus58
 name: Lotus58
 type: shield
 url: https://github.com/Ricardo-Re-Azevedo/Lotus58
-requires: [pro_micro]
+requires:
+  - pro_micro
+  - pimoroni trackball_pim447
 features:
   - keys
-#  - display
-  - encoder
+  - mouse
 siblings:
   - lotus58_left
   - lotus58_right
