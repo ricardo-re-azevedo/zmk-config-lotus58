@@ -4,10 +4,14 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: zmk-yackboard-3.2
       url-base: https://gitlab.com/voidyourwarranty
+    - name: jgreel
+      url-base: https://github.com/jgreel
+    - name: zmk
+      url-base: https://github.com/cdc-mkb
   projects:
-    - name: zmk-yackboard-3.2
-      remote: zmk-yackboard-3.2
-      revision: devel-pim447
+    - name: zmk
+      remote: jgreel
+      revision: devel-mouse-pim447
       import: app/west.yml
   self:
     path: config
