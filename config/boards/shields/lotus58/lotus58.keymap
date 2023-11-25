@@ -1,48 +1,9 @@
-/*
- * Copyright (c) 2022 The ZMK Contributors
- *
- * SPDX-License-Identifier: MIT
- */
-
 #include <behaviors.dtsi>
+#include <dt-bindings/zmk/outputs.h>
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
-#include <dt-bindings/zmk/outputs.h>
 
 / {
-    combos {
-        compatible = "zmk,combos";
-        combo_dsklg {
-            timeout-ms = <100>;
-            key-positions = <24 52>;
-            layers = <0>;
-            bindings = <&kp LGUI>;
-        };        
-    };
-
-    behaviors {
-        fofunc: four_ffour {
-            compatible = "zmk,behavior-mod-morph";
-            label = "FOUR_FUNCFOUR";
-            #binding-cells = <0>;
-            bindings = <&kp N4>, <&kp F4>;
-            mods = <(MOD_LALT|MOD_RALT)>;
-        };
-        sleft: s_left {
-            compatible = "zmk,behavior-mod-morph";
-            label = "S_LEFT";
-            #binding-cells = <0>;
-            bindings = <&kp S>, <&kp LEFT>;
-            mods = <(MOD_LGUI|MOD_RGUI)>;
-        };
-        fright: f_right {
-            compatible = "zmk,behavior-mod-morph";
-            label = "R_RIGHT";
-            #binding-cells = <0>;
-            bindings = <&kp F>, <&kp RIGHT>;
-            mods = <(MOD_LGUI|MOD_RGUI)>;
-        };
-    };
 
     keymap {
         compatible = "zmk,keymap";
@@ -53,13 +14,13 @@
 // 12|  TAB  |  Q  |  W  |  E   |  R   |  T   |                     |  Y   |  U    |  I    |  O   |   P   |   [   | 23
 // 24|  SFT  |  A  |  S  |  D   |  F   |  G   |  RESET  |  | RESET  |  H   |  J    |  K    |  L   |   ;   | ' SFT | 37
 // 38|  CTRL |  Z  |  X  |  C   |  V   |  B   |  MUTE   |  | PLAY   |  N   |  M    |  ,    |  .   |   /   | \ CTRL| 51
-// 52                    |ENT RS|  ALT | SPACE|DELETE LW|  |ENTER RS| BSPC |  ] LW | RGUI  |                        59
+// 52                    | ALT  |  RET | SPACE|  BSPC   |  |ENTER RS|  DEL |  ] LW | RGUI  |                        59
             bindings = <
 &kp ESC   &kp N1 &kp N2   &kp N3     &fofunc   &kp N5                               &kp N6    &kp N7      &kp N8    &kp N9   &kp N0   &kp EQUAL
 &kp TAB   &kp Q  &kp W    &kp E      &kp R     &kp T                                &kp Y     &kp U       &kp I     &kp O    &kp P    &kp LBKT
 &kp LSHFT &kp A  &sleft   &kp D      &fright   &kp G      &reset         &reset     &kp H     &kp J       &kp K     &kp L    &kp SEMI &mt RSHFT SQT
 &kp LCTRL &kp Z  &kp X    &kp C      &kp V     &kp B      &kp C_MUTE     &kp C_PP   &kp N     &kp M       &kp COMMA &kp DOT  &kp FSLH &mt RCTRL BSLH
-                          &kp LALT   &lt 2 RET &kp SPACE  &kp BSPC      &lt 2 RET   &lt 1 DEL &lt 1 RBKT  &kp LGUI
+                          &kp LALT   &lt 2 RET &kp SPACE  &kp BSPC      &lt 2 RET   &lt 1 DEL &lt 1 RBKT  &kp RGUI
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP &inc_dec_kp PG_UP PG_DN>;

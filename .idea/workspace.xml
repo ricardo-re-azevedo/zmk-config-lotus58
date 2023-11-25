@@ -4,9 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2457fdea-1791-4e8c-87c7-c0f1df5e5394" name="Changes" comment="">
+    <list default="true" id="2457fdea-1791-4e8c-87c7-c0f1df5e5394" name="Changes" comment="working?">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/zmk-config-lotus58.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/Kconfig.defconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/Kconfig.shield" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/custom_status_screen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/nice_view.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/nice_view.overlay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/nice_view.zmk.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/widgets/art.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/widgets/bolt.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/widgets/peripheral_status.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/widgets/peripheral_status.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/widgets/status.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/widgets/status.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/widgets/util.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view/widgets/util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/Kconfig.defconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/Kconfig.shield" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/boards/bluemicro840_v1.overlay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/boards/mikoto_520.overlay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/boards/nice_nano.overlay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/boards/nice_nano_v2.overlay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/boards/nrfmicro_11.overlay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/boards/nrfmicro_11_flipped.overlay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/boards/nrfmicro_13.overlay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/boards/puchi_ble_v1.overlay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/nice_view_adapter.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/nice_view_adapter.overlay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/boards/shields/nice_view_adapter/nice_view_adapter.zmk.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zmk" beforeDir="false" afterPath="$PROJECT_DIR$/zmk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/build.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/lotus58/Kconfig.defconfig" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/lotus58/Kconfig.defconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/lotus58/Kconfig.shield" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/lotus58/Kconfig.shield" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/lotus58/lotus58.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/lotus58/lotus58.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/lotus58/lotus58.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/lotus58/lotus58.dtsi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/lotus58/lotus58.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/lotus58/lotus58.keymap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/lotus58/lotus58.zmk.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/lotus58/lotus58.zmk.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/lotus58/lotus58_left.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/lotus58/lotus58_left.overlay" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zmk" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,27 +91,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu-22.04/home/ricardo/projects/zmk-config-lotus58/config/boards/shields/lotus58&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu-22.04/home/ricardo/projects/zmk-config-lotus58/config/boards/shields",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="\\wsl.localhost\Ubuntu-22.04\home\ricardo\projects\zmk-config-lotus58\config\boards\shields\lotus58" />
       <recent name="\\wsl.localhost\Ubuntu-22.04\home\ricardo\projects\zmk-config-lotus58\config\boards\shields" />
+      <recent name="\\wsl.localhost\Ubuntu-22.04\home\ricardo\projects\zmk-config-lotus58\config\boards\shields\lotus58" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu-22.04\home\ricardo\projects\zmk-config-lotus58" />
@@ -85,7 +131,7 @@
       <workItem from="1699915994016" duration="5793000" />
       <workItem from="1700177513000" duration="27818000" />
       <workItem from="1700437168181" duration="19520000" />
-      <workItem from="1700930531435" duration="679000" />
+      <workItem from="1700930531435" duration="5443000" />
     </task>
     <task id="LOCAL-00001" summary="first non-working">
       <option name="closed" value="true" />
@@ -182,11 +228,41 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="ead2841e-9e31-4683-9011-144a47c88040" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+        <entry key="ead2841e-9e31-4683-9011-144a47c88040">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
           </value>
         </entry>
       </map>
@@ -246,6 +322,7 @@
     <MESSAGE value="updated west.yml" />
     <MESSAGE value="fixed pim447 addr" />
     <MESSAGE value="added dev board for R side" />
-    <option name="LAST_COMMIT_MESSAGE" value="added dev board for R side" />
+    <MESSAGE value="working?" />
+    <option name="LAST_COMMIT_MESSAGE" value="working?" />
   </component>
 </project>
