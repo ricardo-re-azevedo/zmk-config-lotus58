@@ -1,9 +1,3 @@
-/*
- * Copyright (c) 2022 The ZMK Contributors
- *
- * SPDX-License-Identifier: MIT
- */
-
 #include "lotus58.dtsi"
 
 &default_transform {
@@ -19,8 +13,4 @@
 		, <&pro_micro 16 GPIO_ACTIVE_HIGH>
 		, <&pro_micro 15 GPIO_ACTIVE_HIGH>
 		;
-};
-
-&right_encoder {
-	status = "okay";
 };

@@ -6,22 +6,32 @@ if SHIELD_LOTUS58_LEFT
     config ZMK_SPLIT_ROLE_CENTRAL
         default y
 
-    config I2C
-        default n
-
 endif
 
 if SHIELD_LOTUS58_LEFT || SHIELD_LOTUS58_RIGHT
 
     config ZMK_SPLIT
-        default y
+    default y
+
+    if ZMK_DISPLAY
+
+        config I2C
+            default y
+
+        config SSD1306
+            default y
+
+        config SSD1306_REVERSE_MODE
+            default y
+
+    endif # ZMK_DISPLAY
 
     if LVGL
 
         config LV_Z_VDB_SIZE
             default 64
 
-        config LV_DPI_DEF
+        config LV_Z_DPI
             default 148
 
         config LV_Z_BITS_PER_PIXEL
