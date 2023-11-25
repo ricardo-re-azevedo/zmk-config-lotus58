@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2457fdea-1791-4e8c-87c7-c0f1df5e5394" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zmk" beforeDir="false" afterPath="$PROJECT_DIR$/zmk" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/devel-pim447" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="pim447" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e63477cc-efaf-4670-80b4-7f96102ea69a" />
+        <option name="url" value="https://github.com/ricardo-re-azevedo/zmk-config-lotus58" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XPWKmuPTfntfF4qLid8G4blMTq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu-22.04/home/ricardo/projects/zmk-config-lotus58/config/boards/shields/lotus58&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-22.04\home\ricardo\projects\zmk-config-lotus58\config\boards\shields\lotus58" />
+      <recent name="\\wsl.localhost\Ubuntu-22.04\home\ricardo\projects\zmk-config-lotus58\config\boards\shields" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-22.04\home\ricardo\projects\zmk-config-lotus58" />
+      <recent name="\\wsl.localhost\Ubuntu-22.04\home\ricardo\projects\zmk-config-lotus58\config\boards\shields\lotus58" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2457fdea-1791-4e8c-87c7-c0f1df5e5394" name="Changes" comment="" />
+      <created>1698531133463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698531133463</updated>
+      <workItem from="1698531134567" duration="35944000" />
+      <workItem from="1699915994016" duration="5793000" />
+      <workItem from="1700177513000" duration="27818000" />
+      <workItem from="1700437168181" duration="19520000" />
+      <workItem from="1700930531435" duration="679000" />
+    </task>
+    <task id="LOCAL-00001" summary="first non-working">
+      <option name="closed" value="true" />
+      <created>1699725244288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699725244288</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first non-working">
+      <option name="closed" value="true" />
+      <created>1699725452021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699725452021</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first non-working">
+      <option name="closed" value="true" />
+      <created>1699725560061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699725560061</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added submodule">
+      <option name="closed" value="true" />
+      <created>1699726231640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699726231640</updated>
+    </task>
+    <task id="LOCAL-00005" summary="removed submodule">
+      <option name="closed" value="true" />
+      <created>1699727037479</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699727037479</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added submodule">
+      <option name="closed" value="true" />
+      <created>1699727144964</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699727144964</updated>
+    </task>
+    <task id="LOCAL-00007" summary="troubleshooting deps">
+      <option name="closed" value="true" />
+      <created>1700328610994</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700328610994</updated>
+    </task>
+    <task id="LOCAL-00008" summary="first draft">
+      <option name="closed" value="true" />
+      <created>1700423215877</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700423215877</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated west.yml">
+      <option name="closed" value="true" />
+      <created>1700425616047</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700425616047</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixed pim447 addr">
+      <option name="closed" value="true" />
+      <created>1700438465630</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700438465630</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added dev board for R side">
+      <option name="closed" value="true" />
+      <created>1700872431878</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700872431878</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/zmk/modules/bsim_hw_models/nrf_hw_models" />
+      <path value="$PROJECT_DIR$/zmk/modules/crypto/mbedtls" />
+      <path value="$PROJECT_DIR$/zmk/modules/crypto/tinycrypt" />
+      <path value="$PROJECT_DIR$/zmk/modules/debug/TraceRecorder" />
+      <path value="$PROJECT_DIR$/zmk/modules/debug/mipi-sys-t" />
+      <path value="$PROJECT_DIR$/zmk/modules/debug/segger" />
+      <path value="$PROJECT_DIR$/zmk/modules/fs/fatfs" />
+      <path value="$PROJECT_DIR$/zmk/modules/fs/littlefs" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/atmel" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/cmsis" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/espressif" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/gigadevice" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/libmetal" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/nordic" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/nuvoton" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/quicklogic" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/renesas" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/rpi_pico" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/stm32" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/telink" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/telink/tlsr9/ble/proj_lib/lib" />
+      <path value="$PROJECT_DIR$/zmk/modules/hal/wurthelektronik" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/canopennode" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/chre" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/gui/lvgl" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/liblc3" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/lz4" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/nanopb" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/open-amp" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/picolibc" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/tflite-micro" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/tinycbor" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/uoscore-uedhoc" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/zcbor" />
+      <path value="$PROJECT_DIR$/zmk/modules/lib/zscilib" />
+      <path value="$PROJECT_DIR$/zmk/modules/tee/tf-a/trusted-firmware-a" />
+      <path value="$PROJECT_DIR$/zmk/modules/tee/tf-m/psa-arch-tests" />
+      <path value="$PROJECT_DIR$/zmk/modules/tee/tf-m/tf-m-tests" />
+      <path value="$PROJECT_DIR$/zmk/zephyr" />
+    </ignored-roots>
+    <MESSAGE value="first working config, left only" />
+    <MESSAGE value="pim 447 test config" />
+    <MESSAGE value="first non-working" />
+    <MESSAGE value="removed submodule" />
+    <MESSAGE value="added submodule" />
+    <MESSAGE value="updated submodule" />
+    <MESSAGE value="troubleshooting deps" />
+    <MESSAGE value="first draft" />
+    <MESSAGE value="updated project source" />
+    <MESSAGE value="updated west.yml" />
+    <MESSAGE value="fixed pim447 addr" />
+    <MESSAGE value="added dev board for R side" />
+    <option name="LAST_COMMIT_MESSAGE" value="added dev board for R side" />
+  </component>
+</project>

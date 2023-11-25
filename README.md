@@ -1,8 +1,10 @@
 #Setup https://zmk.dev/docs/development/setup
 ```shell
-cd zmk/app
-west init
+cd /
+set -Ux ZEPHYR_VERSION 3.2.0
+west init -l "config"
 west update
+west zephyr-export
 ```
 
 #Building
