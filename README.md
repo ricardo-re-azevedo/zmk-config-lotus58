@@ -1,3 +1,5 @@
+Includes a custom nice_view sheild that replaces the wpm monior with a message
+
 #Setup https://zmk.dev/docs/development/setup
 ```shell
 cd /
