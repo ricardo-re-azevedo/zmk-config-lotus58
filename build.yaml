@@ -17,5 +17,3 @@ include:
     shield: lotus58_left
   - board: nice_nano_v2
     shield: lotus58_right
-  - board: nice_nano_v2
-    shield: settings_reset
