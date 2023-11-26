@@ -24,6 +24,13 @@ if SHIELD_LOTUS58_LEFT || SHIELD_LOTUS58_RIGHT
         config SSD1306_REVERSE_MODE
             default y
 
+        config NICE_VIEW_WIDGET_STATUS
+            select LV_FONT_MONTSERRAT_18
+            select LV_FONT_MONTSERRAT_14
+            select LV_FONT_MONTSERRAT_12
+            select LV_FONT_UNSCII_8
+            select ZMK_WPM
+
     endif # ZMK_DISPLAY
 
     if LVGL

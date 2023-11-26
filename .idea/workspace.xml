@@ -132,7 +132,7 @@
       <workItem from="1700177513000" duration="27818000" />
       <workItem from="1700437168181" duration="19520000" />
       <workItem from="1700930531435" duration="9764000" />
-      <workItem from="1700947409434" duration="5427000" />
+      <workItem from="1700947409434" duration="10285000" />
     </task>
     <task id="LOCAL-00001" summary="first non-working">
       <option name="closed" value="true" />
@@ -227,6 +227,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.config" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="OPEN_GENERIC_TABS">
