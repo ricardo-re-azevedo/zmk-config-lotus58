@@ -5,7 +5,6 @@ type: shield
 url: https://github.com/Ricardo-Re-Azevedo/Lotus58
 requires:
   - pro_micro
-  - pimoroni trackball_pim447
 features:
   - keys
 siblings:
